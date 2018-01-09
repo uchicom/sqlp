@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.uchicom</groupId>
 	<artifactId>sqlp</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<packaging>jar</packaging>
 	<name>sqlp</name>
 	<description>Sql Parser. SQL to CRUD list</description>
